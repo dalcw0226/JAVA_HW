@@ -34,7 +34,7 @@ class Point3D{
 	
 	// 정해진 형식대로 출력할 함수
 	public String toString() {
-		return "(" + x + "," + y + "," + z + ")의 점입니다.";
+		return "(" + x + "," + y + "," + z + ")의 점";
 	}
 }
 
